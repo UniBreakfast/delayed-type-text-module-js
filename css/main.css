@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: orange;
+    min-height: 100vh;
+}
+
+.type-text {
+    width: 60%;
+    max-height: 80%;
+}
+
+::selection {
+    background: orange;
+    color: #ffffff;
+}
