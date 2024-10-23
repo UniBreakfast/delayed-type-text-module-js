@@ -15,9 +15,13 @@ body {
     min-height: 100vh;
 }
 
-.type-text {
+#type {
     width: 60%;
     max-height: 80%;
+}
+
+#type span {
+    white-space: pre;
 }
 
 ::selection {
