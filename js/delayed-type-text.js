@@ -3,7 +3,7 @@ function buildTypeText(el, letterDelay, reverseDelay, slideDelay, options={}) {
     const texts = els.map(el => el.innerText)
     let i = 0, interval, length = 0
     if (options.sound) {
-        var sound = new Audio('/sound.mp3')
+        var sound = new Audio('sound.mp3')
         sound.loop = true
     }
     
