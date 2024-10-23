@@ -8,3 +8,5 @@ Done with a student during a coding lesson.
 ![image](https://github.com/user-attachments/assets/6d1a3dae-ffee-438f-b685-17388c638ba7)
 
 Пусть... (Сергей Евгеньев, 2007)
+
+![image](https://github.com/user-attachments/assets/fbe7c014-9d5d-44e1-ada9-17824377abf1)
