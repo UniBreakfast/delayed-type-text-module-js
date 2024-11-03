@@ -1,4 +1,5 @@
-# delayed-type-text-module-js
+# [delayed-type-text-module-js](https://github.com/UniBreakfast/delayed-type-text-module-js)
+
 ## A module for real-time typing effect with a sound of keys being pressed
 
 Done with a student during a coding lesson.
